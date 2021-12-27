@@ -10,7 +10,7 @@ This is the schedule for the course.  It may be updated from time to time.  Upda
 * SG is *Scrum Guide, 2016*
 * UD is *UML Distilled, 3rd ed.*
 
-Schedule Date | Topic/Activity               | Reading
+Day/Date      | Topic/Activity               | Reading
 ------------- | ---------------------------- | ----------------------------
 Fri, Jan 28   | Course Introduction | [Lecture 1: Course Overview, OOP](lectures/lecture01.html)
 Mon, Jan 31   | HTML (content) and CSS (styling) <br> HTML and CSS Lab Assigned | [Lecture 2: HTML and CSS](lectures/lecture02.html)<br> [Lab 1: HTML and CSS Lab](./labs/lab01.html)
