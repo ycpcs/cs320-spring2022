@@ -10,7 +10,7 @@ This is the schedule for the course.  It may be updated from time to time.  Upda
 * SG is *Scrum Guide, 2016*
 * UD is *UML Distilled, 3rd ed.*
 
-Date   | Topic/Activity | Reading
+Date     | Topic/Activity               | Reading
 -------- | ---------------------------- | ----------------------------
 Jan 28 | Course Introduction | [Lecture 1: Course Overview, OOP](lectures/lecture01.html)
 Jan 31 | HTML (content) and CSS (styling) <br> HTML and CSS Lab Assigned | [Lecture 2: HTML and CSS](lectures/lecture02.html)<br> [Lab 1: HTML and CSS Lab](./labs/lab01.html)
@@ -21,7 +21,7 @@ Feb 9  | Web Applications II <br> Web Applications Labs Review |
 Feb 11 | Version Control: Git & eGit (in class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
 Feb 14 | Development Processes & Waterfall Model | UD: Chapter 2 <br> [Lecture 6: Development Process](lectures/lecture06.html)
 Feb 16 | Agile Process & Scrum |  SG: [2016 Scrum Guide](lectures/lecture07/2016_Scrum_Guide_US.pdf) <br> [Lecture 7: Agile & Scrum](lectures/lecture07.html) <br> [Manifesto for Agile Software Development](http://www.agilemanifesto.org/) 
-Feb 18  | User Requirements Exercise and <br> Brainstorming Session (in-class) | 
+Feb 18 | User Requirements Exercise and <br> Brainstorming Session (in-class) | 
 Feb 21 | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Feb 23 | Requirements & Use Cases<br>Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Requirements, Use Cases](lectures/lecture08.html)
 Feb 25 | Team Project Session: Use Cases (in class) | 
