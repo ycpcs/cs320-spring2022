@@ -6,3 +6,6 @@
 
 *.swp
 /_site
+
+# Temporary Excel file
+~*.xlsx
