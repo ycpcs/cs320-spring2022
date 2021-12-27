@@ -21,6 +21,7 @@ Assignment | Type | Due
 [Assignment 8: Team Project Technical Report](assign08.html) | Team | Saturday, 5-7-22, by 7:00am (PDF in Marmoset)
 [Assignment 10: Team Project Reflection](assign10.html) | Individual | Sunday, 5-8-22, by 7:00am (PDF in Marmoset)
 [Assignment 11: Final Team Project Self / Peer Evaluation](assign11.html) | Individual | Sunday, 5-8-22, by 7:00am (PDF in Marmoset)
-[Assignment 8: Team Project Final Presentation and Demo (Section 103)](assign08.html) | Team | Monday, 5-9-20 (during Final Exam Period:, 3:00 to 5:00)
-[Assignment 8: Team Project Final Presentation and Demo (Section 102)](assign08.html) | Team | Wednesday, 5-11-22 (during Final Exam Period: 10:15 to 12:15)
+[Assignment 8: Team Project Final Presentation and Demo (Section 101)](assign08.html) | Team | Monday, 5-9-20, from 8:00am to 10:00am (during Final Exam Period)
+[Assignment 8: Team Project Final Presentation and Demo (Section 103)](assign08.html) | Team | Monday, 5-9-20, from 3:00pm to 5:00pm (during Final Exam Period)
+[Assignment 8: Team Project Final Presentation and Demo (Section 102)](assign08.html) | Team | Wednesday, 5-11-22, from 10:15am to 12:15pm (during Final Exam Period)
 
