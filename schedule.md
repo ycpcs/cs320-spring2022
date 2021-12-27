@@ -3,7 +3,7 @@ layout: default
 title: "Schedule"
 ---
 
-This is the schedule for the course.  It may be updated from time to time.  Updates will be announced in class, and shown udner **News** at the bottom of the Main page.
+This is the schedule for the course.  It may be updated from time to time.  Updates will be announced in class, and shown under **News** at the bottom of the Main page.
 
 **Important**: Do the reading AND start the labs **before** you come to class!
 
@@ -11,7 +11,7 @@ This is the schedule for the course.  It may be updated from time to time.  Upda
 * UD is *UML Distilled, 3rd ed.*
 
 Date   | Topic/Activity | Reading
------- | -------------- | -------
+-------- | ---------------------------- | ----------------------------
 Jan 28 | Course Introduction | [Lecture 1: Course Overview, OOP](lectures/lecture01.html)
 Jan 31 | HTML (content) and CSS (styling) <br> HTML and CSS Lab Assigned | [Lecture 2: HTML and CSS](lectures/lecture02.html)<br> [Lab 1: HTML and CSS Lab](./labs/lab01.html)
 Feb 2  | Version Control (Git) | [Lecture 12: Git for Designers](https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html)<br>  [Lab 3: Git Lab Part I](./labs/lab03.html)
@@ -43,8 +43,8 @@ Mar 30 | SQL / JDBC / ORM Labs Review
 Apr 1  | Work Ethic Lecture
 Apr 4  | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
 Apr 5  | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
-Apr 6  | Library Project Example Analysis and Review (part 1) | **Take Home Exam (handed out)**
-Apr 8  | Library Project Example Analysis and Review (part 2) | **Take Home Exam (due: in-class)**
+Apr 6  | Library Project Example Analysis & Review (part 1) | **Take Home Exam (handed out)**
+Apr 8  | Library Project Example Analysis & Review (part 2) | **Take Home Exam (due: in-class)**
 Apr 11 | Team Project Work Session (in-class)
 Apr 13 | Team Project Work Session (in-class)
 Apr 15 | **Spring Break (no class)**
