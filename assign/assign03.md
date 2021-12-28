@@ -9,12 +9,12 @@ This document describes the expectations for each milestone.
 
 > Date | Milestone
 > ---- | ---------
-> Monday, 3-16-20    | Milestone 1: Minimal Working System
-> Wednesday, 4-1-20  | Milestone 2: Progress on Features
-> Wednesday, 4-22-20 | Milestone 3: "75%" Working System (operational persistent SQL database)
-> Saturday, 5-9-20   | Final Technical Report: due by 7:00am (Marmoset)
-> Monday, 5-11-20    | Final Presentation & Demo (section 103), during final exam period
-> Wednesday, 5-13-20 | Final Presentation & Demo (sections 101 & 102), during final exam period
+> Monday, 3-21-22    | Milestone 1: Minimal Working System (Basic navigation)
+> Wednesday, 4-4-22  | Milestone 2: Progress on Features (interaction with fake database)
+> Wednesday, 4-25-22 | Milestone 3: "75%" Working System (operational persistent SQL database)
+> Saturday, 5-7-22   | Final Technical Report: due by 7:00am (Marmoset)
+> Monday, 5-9-22     | Final Presentation & Demo (sections 101 & 103), during final exam period
+> Wednesday, 5-11-22 | Final Presentation & Demo (section 102), during final exam period
 
 ## Expectations
 Each milestone will be a **formal** presentation, where your team should be assembling a collection of 5-10 PowerPoint slides, along with a demonstration of your working code, and a run of the complete set of test cases that you have developed to that point.  Bear in mind that it is acceptable for **some** of your test cases to fail, as you will not have implemented all of your code - at least for the aboce 3 milestones.
@@ -37,7 +37,7 @@ Slides to consider (you may include others, as you see fit):
 
 The idea of a minimal working system is to create a working foundation early in the project's development.  Subsequent iterations of the development process will build upon this foundation to implement additional features.
 
-**NOTE: In order to hit the first milestone, and place your team in a good position to achieve success, you should consider putting in a good deal of initial development work on your web front-end over Winter Break.**
+**NOTE: In order to hit the first milestone, and place your team in a good position to achieve success, you should consider putting in a good deal of initial development work on your web front-end navigation before and over Winter Break.**
 
 **Milestone 2: Progress on features**.  In this milestone, your team should demonstrate some progress on features, such that at least some use cases are fully or partially implemented.  It is fine if your system is using the "fake" database at this point.
 

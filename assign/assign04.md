@@ -11,12 +11,12 @@ This document describes the expectations for each milestone.
 
 *Important*: Each individual milestone demo can be no longer than 2-4 minutes (in order for me to see all of the demos during class.)
 
-> Date | Milestone
-> ---- | ---------
-> Monday,    2-17-20 | Milestone 1: Baseline Prototype (in-class)
-> Monday,    3-9-20  | Milestone 2: 50% Working Progress (in-class)
-> Wednesday, 4-8-20  | Milestone 3: Final Project Demo (in-class)
-> Saturday,  4-11-20 | Final Project Report: due by 7:00am (Marmoset)
+> Due Date | Milestone
+> -------- | ---------
+> Monday,  2-21-22 | Milestone 1: Baseline Prototype (in-class)
+> Monday,  3-14-22 | Milestone 2: 50% Working Progress (in-class)
+> Monday,  3-28-22 | Milestone 3: Final Project Demo (in-class)
+> Tuesday, 3-29-22 | Final Project Report: due by 7:00am (Marmoset)
 
 ## Expectations
 
