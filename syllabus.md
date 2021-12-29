@@ -19,7 +19,7 @@ Instructor:
 -   [Professor Donald J. Hake II](https://www.ycp.edu/academics/kinsley-school-of-engineering-sciences-and-technology/faculty/hake-ii-donald-j.html), <djhake2@ycp.edu>, KEC 137<br /> Office Hours: M-W-F 1:00-2:00, and by appointment
 
 
--   [Dr. Krishna Kambhampaty, PhD](https://www.ycp.edu/academics/kinsley-school-of-engineering-sciences-and-technology/faculty/TBD.html), <kkambhampaty@ycp.edu>, KEC ???, 815-6547<br /> Office Hours: TBD
+-   [Dr. Krishna Kambhampaty, PhD](https://www.ycp.edu/academics/kinsley-school-of-engineering-sciences-and-technology/faculty/TBD.html), <kkambhampaty@ycp.edu>, KEC 115<br /> Office Hours: TBD
 
 Course Description
 ------------------
