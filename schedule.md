@@ -22,36 +22,36 @@ Fri, Feb 11   | Version Control: Git & eGit (in class) | [Lab 3: Git Lab Part II
 Mon, Feb 14   | Development Processes & Waterfall Model | UD: Chapter 2 <br> [Lecture 6: Development Process](lectures/lecture06.html)
 Wed, Feb 16   | Agile Process & Scrum |  SG: [2016 Scrum Guide](lectures/lecture07/2016_Scrum_Guide_US.pdf) <br> [Lecture 7: Agile & Scrum](lectures/lecture07.html) <br> [Manifesto for Agile Software Development](http://www.agilemanifesto.org/) 
 Fri, Feb 18   | User Requirements Exercise and <br> Brainstorming Session (in-class) | 
-Mon, Feb 21   | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Wed, Feb 23   | Requirements & Use Cases<br>Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Requirements, Use Cases](lectures/lecture08.html)
-Fri, Feb 25   | Team Project Session: Use Cases (in class) | 
-Mon, Feb 28   | Unified Modeling Language (UML) and <br> Object-Oriented Analysis (OOA)<br>Textual Analysis Exercise (in-class) | UD: Chapter 3 <br> [Lecture 9: UML Class Diagrams](lectures/lecture09.html) <br> [Lecture 10: OO Analysis](lectures/lecture10.html)
+Mon, Feb 21   | Requirements & Use Cases<br>Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Requirements, Use Cases](lectures/lecture08.html)
+Wed, Feb 23   | Team Project Session: Use Cases (in class) | 
+Fri, Feb 25   | Unified Modeling Language (UML) and <br> Object-Oriented Analysis (OOA)<br>Textual Analysis Exercise (in-class) | UD: Chapter 3 <br> [Lecture 9: UML Class Diagrams](lectures/lecture09.html) <br> [Lecture 10: OO Analysis](lectures/lecture10.html)
+Mon, Feb 28   | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Mar 2    | Team Project Session: Textual Analysis (in class) | 
 Fri, Mar 4    | Team Project Session: Project Analysis Model - UML (in class)
 Mon, Mar 7    | Testing and Code Coverage | [Lecture 16: Testing](lectures/lecture16.html)
 Wed, Mar 9    | Ensuring Code Quality | [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) 
 Fri, Mar 11   | **Winter Break, no class**
-Mon, Mar 14   | Individual Project Milestone 2:<br> **50% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+Mon, Mar 14   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Wed, Mar 16   | Object-Oriented Design (OOD) | [Lecture 11: OO Design, OCP, LSP](lectures/lecture11.html)<br> [Design Principles and Design Patterns](lectures/lecture11/Principles_and_Patterns.pdf), Robert Martin, pages 1-12
 Fri, Mar 18   | Relational Databases<br> SQL Lab Assigned | [Lecture 13: Relational Databases](lectures/lecture13.html)<br> [Lab 4: SQL Lab](./labs/lab04.html)
-Mon, Mar 21   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
+Mon, Mar 21   | Individual Project Milestone 2:<br> **50% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Mar 23   | Database Applications - JDBC<br> JDBC Lab Assigned | [Lecture 14: Database Applications, JDBC](lectures/lecture14.html)<br> [Lab 5: JDBC Lab](./labs/lab05.html)
 Fri, Mar 25   | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html)<br> [Lab 6: ORM Lab](./labs/lab06.html)
-Mon, Mar 28   | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Tue, Mar 29   | Individual Project Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
+Mon, Mar 28   | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
+Tue, Mar 29   | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
 Wed, Mar 30   | SQL / JDBC / ORM Labs Review
 Fri, Apr 1    | Work Ethic Lecture
-Mon, Apr 4    | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
-Tue, Apr 5    | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
+Mon, Apr 4    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+Tue, Apr 5    | Individual Project Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 Wed, Apr 6    | Library Project Example Analysis & Review (part 1) | **Take Home Exam (handed out)**
 Fri, Apr 8    | Library Project Example Analysis & Review (part 2) | **Take Home Exam (due: in-class)**
 Mon, Apr 11   | Team Project Work Session (in-class)
 Wed, Apr 13   | Team Project Work Session (in-class)
 Fri, Apr 15   | **Spring Break (no class)**
 Mon, Apr 18   | **Spring Break (no class)**
-Wed, Apr 20   | Team Project Work Session (in-class)
+Wed, Apr 20   | Team Project Milestone 3:<br> **75% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Fri, Apr 22   | Team Project Work Session (in-class)
-Mon, Apr 25   | Team Project Milestone 3:<br> **75% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
+Mon, Apr 25   | Team Project Work Session (in-class)
 Wed, Apr 27   | Team Project Work Session (in-class)
 Fri, Apr 29   | Team Project Work Session (in-class)
 Mon, May 2    | Team Project Work Session (in-class)
