@@ -73,4 +73,20 @@ Java 1.8.0_261, 1.8.0_301 in KEC 123
 Eclipse 2020-6 installed in KEC 123
 Eclipse 2020-6 (JDK JRE 8 or later), anything newer requires JDK 11 or newer
    
+***************
+Install Java first
+   1) double-click on JDK application
+   2) follow default instructions - default location
+   3) for Windows: will be installed to c:\Program Files\Java\jdk name
+   4) you can have multiple versions installed, and you can select which on you want to use for each project in Eclipse
+   
+Install Eclipse second - this is just a matter of unzipping the download into a known location:
+  1) for Windows: install at C:\...  You can also have multiple versions of Eclipse, just install them under different folder names
+  2) got to the eclipse folder, and double-click on the eclipse application
+  3) select a workspace location: create a folder called c:\cs320-spring2022, and then browse to it when prompted
+  4) click the Workspace button in the upper right corner after eclipse starts
+  5) download a lab archive
+  6) go to File->Import->General->Existing Projects into Workspace
+  7) select the Select archive file
+  8)
 
