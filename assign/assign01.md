@@ -26,7 +26,7 @@ In a 3-4 page document, describe the following:
 
 In your description of the system, include sketches of what the user interface will look like.
 
-**What language(s) and programming environment will you use?** My **strong** recommendation is to use Java and Eclipse, using Java servlets and Java Server Pages (JSPs).  Although you may use client-side JavaScript (JS), I do **not** recommend taking that on, as we will not be covering it in this class, and you will already be inundated with several other new languages and technologies. Also do **not** try to implement a game, as previous history has shown that game development for this class has a low-rate (<5% chance) of success (creating an interesting, playable game).
+**What language(s) and programming environment will you use?** My **strong** recommendation is to use Java and Eclipse, using Java servlets and Java Server Pages (JSPs).  It is likely that you will end up using client-side JavaScript (JS), but we will NOT be covering that topic in this course.  JavaScript will provide a great opportunity for slef-learning.  I also strongly discourage attempting to implement a game (except for those included in the project suggestions), as previous history has shown that game development for this class has a low-rate (<5% chance) of success (creating an interesting, playable game).
 
 I **strongly** recommend that you discuss your idea with me before you submit your proposal.
 
@@ -35,11 +35,11 @@ Here is the template for your [Team Project Proposal](CS320_Team_Project_Proposa
 Submitting
 ==========
 
-Have one team member create a Google Team Drive folder named "CS320-Sp20-Team-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the YCP user names of the members of your project team, **in alphabetical order**.  Share the Team Drive with your team members and with me.
+Have one team member create a Google Team Drive folder named "CS320-Sp22-Team-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the YCP user names of the members of your project team, **in alphabetical order**.  Share the Team Drive and all of its folders  and contents with your team and me.
 
 This folder will be your means of submission for all **non-programming-related team** assignments.
 
-Then create your Team Project Proposal in that folder, using Google Docs.  Name your Project Proposal document **assign01-www-xxx-yyy-zzz**, again substituting the YCP user names of your project team members, **in alphabetical order**.  Share the Team Drive with your team members and with me.  Share the folder and its contents with all team members and with me.
+Then create your Team Project Proposal in that folder, using Google Docs.  Name your Project Proposal document **assign01-www-xxx-yyy-zzz**, again substituting the YCP user names of your project team members, **in alphabetical order**.  
 
 <div class="callout">
 <b>Important</b>: Only submissions in Google Docs will be accepted.
