@@ -65,5 +65,5 @@ Submitting
 Name your Project Proposal document **assign02-username**, again substituting your YCP user name.  Submit the report to Marmoset under **Assign02: Individual Project Proposal**. Use only PDF format: **do NOT upload a Microsoft Word or rich text document.**
 
 <div class="callout">
-<b>Important</b>: Your report must be submitted in PDF format. Submissions in any other format may receive a grade of 0.
+<b>Important</b>: Your Project Proposal must be submitted in PDF format. Submissions in any other format may receive a grade of 0.
 </div>
