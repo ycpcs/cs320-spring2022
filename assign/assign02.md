@@ -25,27 +25,24 @@ for you.
 
 Some possible examples:
 
-* Learn a new programming environment and language, e.g. C#, .NET, and MS Visual Studio; Android and IntelliJ; Python, PyCharm, and Pygame
-* Learn about JavaScript (JS) for developing rich, interactive web client interfaces,
-  develop a web application in JS.  Thee are many forms of JS from which to choose.
-* Try developing your own website using Grails or Ruby on Rails or some other web development platform.
-* Learn about programming embedded systems and hardware interfacing, 
-  e.g., AVR, Arduino, and then use it in a hardware project (a data logger,
-  robot, etc.)
-* Contact the **Radio Telescope team** and learn how to develop in the languages, platforms, and tools they are using for that project.  This would prepare you to work on that project when you reach CS481/CS482 - Senior Design I and II.
-* Learn how to deploy and host a website through Amazon Web Services (AWS)
+* Learn a new programming environment and language, e.g. C#, .NET, and MS Visual Studio; Android and IntelliJ; Python, PyCharm, 
+and PyGame
+* Learn about JavaScript (JS) for developing rich, interactive web client interfaces, developing a web application in JS.  There are many forms of JS from which to choose (node.js, vuew.js, angular.js, etc...).
+* Try developing your own website using Grails or Ruby on Rails or some other modern web development platform.
+* Learn about machine learning by designing, training, and testing a neural network.  Look into TensorFlow, PyTorch, or MATLAB using the Neural Network ToolBox
+* Learn about programming embedded systems and hardware interfacing, e.g., AVR, Arduino, and then use it in a hardware project (a data logger, simple robot, etc.)
+* Contact the **Radio Telescope team** and learn how to develop in the languages, platforms, and tools they are using for that project.  This would prepare you to work on that project when you reach CS481/CS482 (Senior Design I and II), assuming that the Radio Telescope project is still being developed by then
+* Learn how to create, deploy, and host a website through Amazon Web Services (AWS)
+* If you already know where you will have your internship or co-op, contact your manager and find out how you might use this assignment to prepare for your position with that company
+* You may also use this assignment to leverage new skills, tools, and technologies that **are not already** part of your team project
   
-These are just examples: I encourage you to be creative and
-think of something that interests you personally.  The most important
-requirement is that you should learn something new!
+These are just examples: I encourage you to be creative and think of something that interests you personally.  The most important
+requirement is that you should learn something exciting and new (to you)!
 
 Scope
 -----
 
-The project should be smaller in scope than your team project:
-the purpose is more to learn something new than to create a substantial
-software system.  However, your project must be non-trivial: the
-system you create should do something interesting.
+The project should be smaller in scope than your team project: the purpose is more to learn something new than to create a substantial software system.  However, your project must be non-trivial: the system you create should do something interesting.
 
 Proposal Format
 ===============
