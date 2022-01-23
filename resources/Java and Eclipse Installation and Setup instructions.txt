@@ -70,8 +70,12 @@ Eclipse IDS for Java Developers (x86_64 bit version)
 
 Java 1.8.0_261, 1.8.0_301 in KEC 123
 
+https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
+
 Eclipse 2020-6 installed in KEC 123
 Eclipse 2020-6 (JDK JRE 8 or later), anything newer requires JDK 11 or newer
+
+https://www.eclipse.org/downloads/packages/release/2020-06/r
    
 ***************
 Install Java first

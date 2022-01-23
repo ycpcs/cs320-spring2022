@@ -3,7 +3,7 @@ layout: default
 title: "Labs"
 ---
 
-This page lists the lab activities.  We *might* get started on these labs in class, but you will not be able to finish them in class.  All of the labs will be graded on a **Pass / Fail** basis, as required assignments.  Failure to submit a sufficiently complete lab by the due date will result in up to a 5% penalty off your course grade.
+This page lists the lab activities.  I will introduce and review the labs in class, but you will have to work on them outside of class, as they require a **substntial** amount of time.  All of the labs will be graded on a **Pass / Fail** basis, as required assignments.  Failure to submit a sufficiently complete lab by the due date will result in up to a 5% penalty off your course grade.
 
 The labs provide extremely important concepts and techniques that will be essential for completing your team project.  The given due dates are the enforced dates, but I **HIGHLY** encourage you to work on the SQL-related labs (Lab04, Lab05, and Lab06) ahead of time, as they are essential for getting a good start on your persistent database design and implementation.
 
@@ -12,6 +12,8 @@ In fact, your team will likely be using Lab06 as the basis for your team project
 **NOTE: For Lab02a, Lab05, and Lab06 (the labs that require programming submissions), you MUST also refactor the name of the project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
 
 Example: If I was submitting Lab02, I would refactor the **CS320\_Lab02** project to **CS320\_Lab02\_djhake2** as soon as I imported the project into Eclipse.  You should do the same with your user name for the three projects that are listed above.
+
+Here are the [Installation Instructions](./Eclipse-Java-Installation.html) for the versions of Java and Eclipse that we will be using for CS320 (which are also the versions installed in KEC 119 and KEC 123).
 
 Due Date | Lab | File
 ---- | --- | ----
