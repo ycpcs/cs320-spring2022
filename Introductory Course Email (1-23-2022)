@@ -1,0 +1,15 @@
+Greetings and welcome back (soon) to KEC for Spring 2022.
+
+We are in the process of putting the finishing touches on the CS320 course website for Spring 2022.  As such, there are some things we suggest you take a look at in advance of the first day of class, which is this Friday, 1-28-2022 in KEC 119.
+
+Here is the URL for the CS320 Course Website
+
+ycpcs.github.io/cs320-spring2022
+
+The entire schedule for the course is posted on the website, along with all of the lectures, labs , and assignments.
+
+1) You will be specifying, designing, and developing a semester-long team-based project (which will take the form of a client-server web application), which is Assignment 1 on the course website.  As such, you will need to create/join a team of 3-4 students from your section of CS320.  This means that there will only be 4 teams in each section.  You will not have to officially define this team until the due date of the Team Project Proposal - but we highly suggest that you start working on identifying your team members before then.  You will find the current class rosters, with email addresses posted under the "Project Teams and Rosters" link on the CS320 Course Website.
+
+2) You will also be doing an Individual Project of your own choosing, which is Assignment 2 on the course website.  This will be a self-learning experience, where you will pick some new (to you) skill/tool/technology and then design and implement a project in that area, researching, designing, and developing it on your own.  You should give consideration to what you want to do for that assignment.  Suggestions for projects are given in Assignment 2, but you can choose your own ideas, if you want.
+
+3) We will be using the Eclipse IDE with Java for the labs, example projects, and the team projects.  Some of you are already have experience with Eclipse through CS201 from Spring 2021, while those who took CS201 this past Fall were working  with the IntelliJ IDE.  Installation instructions for Java and Eclipse will be posted to the course website in the next couple of days.  They are easy to install - but we will be using specific versions of Eclipse (2020-06) and Java jdk-1.8.0_301.  Those are the versions that were installed in KEC123 for Fall 2021.  Therefore, if you decide to download and install Eclipse and Java, please make sure to install those versions, as the course labs might not work reliably with later (newer) versions.
