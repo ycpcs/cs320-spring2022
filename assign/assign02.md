@@ -37,7 +37,7 @@ and PyGame
 * You may also use this assignment to leverage new skills, tools, and technologies that **are not already** part of your team project
   
 These are just examples: I encourage you to be creative and think of something that interests you personally.  The most important
-requirement is that you should learn something exciting and new (to you)!
+requirement is that you should **learn something new and exciting for you!**
 
 Scope
 -----
