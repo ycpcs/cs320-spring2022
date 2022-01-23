@@ -20,7 +20,7 @@ Mon, Feb 7    | Web Applications I <br> Lab 2a Assigned | [Lab 2a: Web Applicati
 Wed, Feb 9    | Web Applications II <br> Web Applications Labs Review |
 Fri, Feb 11   | Version Control: Git & eGit (in class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
 Mon, Feb 14   | Development Processes & Waterfall Model | UD: Chapter 2 <br> [Lecture 6: Development Process](lectures/lecture06.html)
-Wed, Feb 16   | Agile Process & Scrum |  SG: [2016 Scrum Guide](lectures/lecture07/2016_Scrum_Guide_US.pdf) <br> [Lecture 7: Agile & Scrum](lectures/lecture07.html) <br> [Manifesto for Agile Software Development](http://www.agilemanifesto.org/) 
+Wed, Feb 16   | Agile Process & Scrum |  SG: [2016 Scrum Guide](lectures/lecture07/2016_Scrum_Guide_US.pdf) <br> [Lecture 7: Agile & Scrum](lectures/lecture07.html) <br> [Manifesto for Agile Software Development](https://www.sciencedirect.com/topics/computer-science/agile-manifesto) 
 Fri, Feb 18   | User Requirements Exercise and <br> Brainstorming Session (in-class) | 
 Mon, Feb 21   | Requirements & Use Cases<br>Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Requirements, Use Cases](lectures/lecture08.html)
 Wed, Feb 23   | Team Project Session: Use Cases (in class) | 
