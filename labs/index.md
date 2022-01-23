@@ -5,7 +5,7 @@ title: "Labs"
 
 **NOTE: Here are the [Installation Instructions](./Eclipse-Java-Installation.html) for the versions of Java and Eclipse that we will be using for CS320 (which are also the versions installed in KEC 119 and KEC 123).**
 
-This page lists the lab activities for the course.  I will introduce and review the labs in class, but you will have to work on them outside of class, as they require a **substantial** amount of time and effort.  All of the labs will be graded on a **Pass / Fail** basis, as required assignments.  **Note that failure to submit a sufficiently complete lab by the due date (a lab that recevies a failing grade) will result in up to a 5% penalty off your course grade.**
+This page lists the lab activities for the course.  I will introduce and review the labs in class, but you will have to work on them outside of class, as they require a **substantial** amount of time and effort.  All of the labs will be graded on a **Pass / Fail** basis, as required assignments.  **Note that failure to submit a sufficiently complete lab by the due date (a lab that receives a failing grade OR is late) will result in up to a 5% penalty off your course grade.**
 
 The labs provide extremely important concepts and techniques that will be essential for completing your team project.  The given due dates are the enforced dates, but I **HIGHLY** encourage you to work on the SQL-related labs (Lab04, Lab05, and Lab06) ahead of time, as they are essential for getting a good start on your persistent database design and implementation.
 

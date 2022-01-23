@@ -88,6 +88,8 @@ All information about the course will be posted here.
 
 * **Jan 24** - Lab01: HTML & CSS **due date has been moved to 7:00am, Monday, 1-27-20**
 
+-->
+
 * **Jan 28** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
 * **Jan 28** - Assign02: Individual Project Proposal **due by 7:00am, Sunday, 2-2-20**
 * **Jan 28** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
@@ -97,7 +99,5 @@ All information about the course will be posted here.
 * **Jan 28** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted
 * **Jan 28** - [Assign01: Team Project Proposal](assign/assign01.html) is posted
 * **Jan 28** - [Class Rosters](teams-and-rosters/index.html) are posted - choose your teams
-
--->
 
 * **Jan 28** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll learn just how much **WORK** it takes to have so much **FUN**...!)
