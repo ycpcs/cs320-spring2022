@@ -55,20 +55,15 @@ Your proposal should be 2-3 pages, and contain the following information:
 * Description of your project
 * List one or more technologies related to software development that you
   will learn about
-* Briefly discuss your plan for the project: list what sources of information you plan to use, and provide a list of steps/intermediate goals that will allow you to make progress towards completing the project.  Keep in mind that I expect you to make steady progress, and that there will be regular in-class progress reports/demos, as specified in [Assignment 4](assign04.html).
+* Discuss your plan for the project: list what sources of information you plan to use, and provide a list of steps/intermediate goals that will allow you to make progress towards completing the project.  Keep in mind that I expect you to make steady progress, and that there will be regular in-class progress reports/demos, as specified in [Assignment 4](assign04.html).
   
 Here is the template for your [Individual Project Proposal](CS320_Individual_Project_Proposal_Template.pdf).  Download the [template document](CS320_Individual_Project_Proposal_Template.docx), modify it, as necessary, and follow the submission instructions below.
 
 Submitting
 ==========
 
-Create a folder in Google Drive named "CS320-IndProject-username", replacing "username" with your YCP user name, and place it in the shared Google **CS320-Spring2022 [students]** folder under your section of CS320 that I previously shared with you.
-
-This folder will be your means of submission for all **non-programming-related individual** assignments.
-
-Then create your Individual Project Proposal in that folder, using Google Docs.  Name your Project Proposal document **assign02-username**, again substituting your YCP user name.  Share the folder and its contents with me.
+Name your Project Proposal document **assign02-username**, again substituting your YCP user name.  Submit the report to Marmoset under **Assign02: Individual Project Proposal**. Use only PDF format: **do NOT upload a Microsoft Word or rich text document.**
 
 <div class="callout">
-<b>Important</b>: Only submissions in Google Docs will be accepted.
-Do not submit a document in any other format!
+<b>Important</b>: Your report must be submitted in PDF format. Submissions in any other format may receive a grade of 0.
 </div>

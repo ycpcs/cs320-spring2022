@@ -24,8 +24,8 @@ Submit a *short* (4-5 page) report describing *what you learned* from your exper
 
 # Submitting
 
-Submit the report to Marmoset as **assign09report**.  Use *only* PDF format: do *not* upload a Microsoft Word or rich text document.
+Name your Project Proposal document **assign09-username**, again substituting your YCP user name.  Submit the report to Marmoset under **Assign09-Report: Individual Project Report**.  Use only PDF format: **do NOT upload a Microsoft Word or rich text document.**
 
 <div class="callout">
-Your report <em>must</em> be submitted in PDF format.  Submissions in any other format may receive a grade of 0.
+Your Peroject Report <em>must</em> be submitted in PDF format.  Submissions in any other format may receive a grade of 0.
 </div>
