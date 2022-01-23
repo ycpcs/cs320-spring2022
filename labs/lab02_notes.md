@@ -10,7 +10,7 @@ These instructions are for **Eclipse 2020-06** (which is installed on the PCs in
 
 All of the labs have been reconfigured to use **JRE System Library[JavaSE-1.8]**, which is installed on the PC's in both KEC 119 and KEC 123.  It is possible that the configuration you are using on your own PC (or even on a lab PC) could vary such that no suitable version of Java JRE 1.8 can be found.  The instructions below will help you establish the proper JRE System Libraries for the labs for CS320.
 
-If you are using an older version of the **JRE System Library**, you might need to change the default **JRE System Library** version to a later version in order to get **CS320\_Lab02** to work.  A **JRE System Library** version of **jre1.8.0\_181** or later (up to **1.8.0\_301** should work fine - choose the latest version in that range that you have available.
+If you are using an older version of the **JRE System Library**, you might need to change the default **JRE System Library** version to a later version in order to get **CS320\_Lab02** to work.  A **JRE System Library** version of **jre1.8.0\_181** or later (up to **1.8.0\_301**) should work fine - choose the latest version in that range that you have available.
 
 In KEC 119 and KEC 123, the latest version of the **JRE System Library** is **1.8.0\_301**.  I recommend using the same version as installed on the lab PCs.
 
@@ -28,14 +28,14 @@ In KEC 119 and KEC 123, the latest version of the **JRE System Library** is **1.
 
 * Expand the **CS320_Lab02** project.
 
-* If it shows the **JRE System Library** either as **JRE System Library[JavaSE-1.8]** or **jdk1.8.0\_181** or later (up to 1.8.0\_301), then you likely have no further steps to take.
+* If it shows the **JRE System Library** either as **JRE System Library[JavaSE-1.8]** or **jdk1.8.0\_181** or later (up to **1.8.0\_301**), then you likely have no further steps to take.
 
 Changing the JRE System Library
 =========
 
 On the other hand, if the **JRE System Library** is shown as "unbound", you will likely need to switch to a compatible library.
 
-Go to **C:/Program Files/Java** and look for a JDK folder labelled **jdk1.8.0\_xxx**.  Hopefully, you have one of those installed in the Java folder.  For the lab PCs, there could be multiple versions installed - choose the latest 1.8.0\_xxx  (this should be version **1.8.0\_301**.  If a compatible version is present, then do the following:
+Go to **C:/Program Files/Java** and look for a JDK folder labelled **jdk1.8.0\_xxx**.  Hopefully, you have one of those installed in the Java folder.  For the lab PCs, there could be multiple versions installed - choose the latest 1.8.0\_xxx  (this should be version **1.8.0\_301**).  If a compatible version is present, then do the following:
 
 * Go into Eclipse, right-click on the **CS320\_Lab02** project.
 
