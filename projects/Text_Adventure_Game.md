@@ -100,57 +100,43 @@ Extend the user interface to facilitate creating/extending the game, as above.  
 Example CSV File Structure:
 ======================
 
-* Rooms Table
-
-ID  room name              move    ID  move   ID   move   ID
+* Rooms Table CSV File Structure
+<pre>
+ID  room name              move    ID  move   ID   move   ID   move   ID
 
 1 | Small cave entrance  | south | 2 | west  | 3 | up    | 4 | down | 5
-
 2 | Small cave north     | north | 1 | down  | 1
-
 3 | Small cave south     | north | 2 | east  | 1 | west  | 5
-
 4 | 
-
 5 |
+</pre>
 
-* Room Descriptions Table
-
+* Room Descriptions Table CSV File Structure
+<pre>
 ID  Long Description                                        Short Description
 
 1 | You are standing outside the entrance to a small cave | Outside small cave entrance
-
 2 | You are at the north end of the small cave            | North end of small cave
-
 3 | You are at the south end of the small cave            | South end of small cave
+</pre>
 
-
-* Example game play based on above (1,2) -> room #, (s,n,e) -> move abbreviation
-
+* Example game play based on above (1,2) = room #, (s,n,e) = move abbreviation
+<pre>
 Game: You are standing outside the entrance to a small cave (1)
-
-Player: south (s)
-
+<b>Player: south (s)</b>
 Game: You are at the north end of the small cave (2)
-
-Player: north (n)
-
+<b>Player: north (n)</b>
 Game: Outside small cave entrance (1)
-
-Player: south (s)
-
+<b>Player: south (s)</b>
 Game: North end of small cave (2)
-
-Player: east (e)
-
+<b>Player: east (e)</b>
 Game: There is no where to go in that direction (2)
+</pre>
 
-* Dialog question choices
-
+* Dialog Question Choices CSV File Structure
+<pre>
 1 | Question1  | 2 | Choice1 ID | choice2 ID
-
 2 | Question2  | 2 | Choice3 ID | choice4 ID
-
 3 | Terminal 3
-
 4 | Terminal 4
+</pre>
