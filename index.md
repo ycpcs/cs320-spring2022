@@ -21,8 +21,6 @@ All information about the course will be posted here.
 * [Projects](projects/index.html)
 * [Tutoring](CS320-Sp22-TutoringSchedule.pdf)
 * [Resources](resources/index.html)
-* [Career Development](careers/index.html)
-* [Practice Exams](practice/index.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
