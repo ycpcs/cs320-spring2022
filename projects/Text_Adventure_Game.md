@@ -120,7 +120,7 @@ ID  Long Description                                        Short Description
 3 | You are at the south end of the small cave            | South end of small cave
 </pre>
 
-* Example game play based on above: (1,2) = room #'s; (s,n,e) = move abbreviations
+* Example Game Play Based On Above: (1,2) = room #'s; (s,n,e) = move abbreviations
 <pre>
 Game: You are standing outside the entrance to a small cave (1)
 <b>Player: south (s)</b>
