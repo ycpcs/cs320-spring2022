@@ -91,13 +91,11 @@ All information about the course will be posted here.
 -->
 
 * **Jan 28** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
-* **Jan 28** - Assign02: Individual Project Proposal **due by 7:00am, Sunday, 2-2-20**
 * **Jan 28** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
-* **Jan 28** - Assign01: Team Project Proposal **due by 7:00am, Monday, 2-3-20**
-* **Jan 28** - [Lab01: HTML and CSS](labs/lab01.html) is posted
+* **Jan 28** - [Lab01: HTML and CSS](labs/lab01.html) is posted and is **due by 7:00am, Thursday, 2-3-22**
 * **Jan 28** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html)
-* **Jan 28** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted
-* **Jan 28** - [Assign01: Team Project Proposal](assign/assign01.html) is posted
+* **Jan 28** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by 7:00am, Sunday, 2-6-22**
+* **Jan 28** - [Assign01: Team Project Proposal](assign/assign01.html) is posted and is **due by 7:00am, Thursday, 2-10-22**
 * **Jan 28** - [Class Rosters](teams-and-rosters/index.html) are posted - choose your teams
 
-* **Jan 28** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll learn just how much **WORK** it takes to have so much **FUN**...!)
+* **Jan 28** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll learn just how much **WORK** it takes to have so much **FUN**...!  :-)
