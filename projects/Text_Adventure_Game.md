@@ -101,6 +101,7 @@ Example CSV File Structure:
 ======================
 
 * Rooms Table CSV File Structure
+
 Each room has links to other rooms that can be reached by the associated move.  This table is esaily extensible to any number of acceptable moves for any room, and any number of rooms.
 <pre>
 ID  room name              move    ID  move   ID   move   ID   move   ID
@@ -113,6 +114,7 @@ ID  room name              move    ID  move   ID   move   ID   move   ID
 </pre>
 
 * Room Descriptions Table CSV File Structure
+
 Each room has a long description, which gives a verbose response when that room is reached, and a short description when that room is reached subsequent times.
 <pre>
 ID  Long Description                                        Short Description
@@ -136,6 +138,7 @@ Game: There is no where to go in that direction (2)
 </pre>
 
 * Dialog Question Choices CSV File Structure
+
 Question1 and Question2 accept two possible actions (1st action ID, 2nd action ID), and their respective response ID's, which can be the next question ID, or a Terminal ID, which ends the sequence of questions
 <pre>
 ID  Text     # of Responses  Response 1   Response 2
