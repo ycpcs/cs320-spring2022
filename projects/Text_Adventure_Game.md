@@ -42,7 +42,7 @@ There should also be a method for saving and restoring the game state, and keepi
 
 The database for the program will consist of all of the above.
 
-You MUST create your map, plot, and narrative - you cannot copy another text-based adventure game.  You should initialize all of the above lists from text-based CSV files that will initially hold your data.  You will use those CSV files to initialize/recreate your database, and to edit/extend your game.  See the end of this description for a suggested approach for the CSV file structure.  The contents of the CSV files are delimited by pipe ('|') characters.
+You MUST create your map, plot, and narrative - you cannot copy another text-based adventure game.  You should initialize all of the above lists from text-based CSV files that will initially hold your data.  You will use those CSV files to initialize/recreate your database, and to edit/extend your game.  See the end of this description for a suggested approach for the CSV file structure.  The contents of the CSV files are delimited by pipe ('\|') characters.
 
 
 You are NOT allowed to create a grid-based map of rooms - you must use a node-based map that can have any number of inter-connections with other rooms based on links to those rooms.
@@ -101,6 +101,7 @@ Example CSV File Structure:
 ======================
 
 * Rooms Table CSV File Structure
+Each room has links to other rooms that can be reached by the associated move.  This table is esaily extensible to any number of acceptable moves for any room, and any number of rooms.
 <pre>
 ID  room name              move    ID  move   ID   move   ID   move   ID
 
@@ -112,6 +113,7 @@ ID  room name              move    ID  move   ID   move   ID   move   ID
 </pre>
 
 * Room Descriptions Table CSV File Structure
+Each room has a long description, which gives a verbose response when that room is reached, and a short description when that room is reached subsequent times.
 <pre>
 ID  Long Description                                        Short Description
 
@@ -134,9 +136,12 @@ Game: There is no where to go in that direction (2)
 </pre>
 
 * Dialog Question Choices CSV File Structure
+Question1 and Question2 accept two possible actions (1st action ID, 2nd action ID), and their respective response ID's, which can be the next question ID, or a Terminal ID, which ends the sequence of questions
 <pre>
-1 | Question1  | 2 | Choice1 ID | choice2 ID
-2 | Question2  | 2 | Choice3 ID | choice4 ID
-3 | Terminal 3
-4 | Terminal 4
+ID  Text     # of Responses  Response 1   Response 2
+
+1 | Question1     | 2 |      1st action ID | 1st response ID | 2nd action ID | 2nd response ID
+2 | Question2     | 2 |      1st action ID | 1st response ID | 2nd action ID | 2nd response ID
+3 | Terminal3
+4 | Terminal4
 </pre>
