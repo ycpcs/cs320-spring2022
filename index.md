@@ -8,8 +8,6 @@ title: Home page
 This is the website for CS 320, Spring 2022 at York College.
 All information about the course will be posted here.
 
-## Currently Undergoing Construction
-
 ## Links
 
 * [Syllabus](syllabus.html)
