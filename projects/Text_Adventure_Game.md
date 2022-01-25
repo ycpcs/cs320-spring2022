@@ -9,6 +9,8 @@ Design and develop a platform for creating and playing text-based adventure game
 
 The game is based upon a player traversing a "map": a collection of locations (rooms), the connections between those rooms, and the commands to move between rooms.  As the player traverses the map, they collect treasures, and are confronted with a number of problems they must solve in order to continue to make progress in the game.  The goal is to traverse as much of the map as possible, collecting as much treasure as possible, removing the treasure to a safe location, and surviving the adventure, while scoring as many points as possible.
 
+You can go [here](https://ifdb.org/viewgame?id=fft6pu91j85y4acv) to play the game on-line (or download it).  Click the "**Play Online**" button in the upper right corner.
+
 Basic Requirements
 ==================
 
