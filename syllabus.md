@@ -14,12 +14,11 @@ Class times (all in KEC 119):
 - Section 102: M-W-F	11:00 - 11:50 AM (Prof. Hake)
 - Section 103: M-W-F	 2:00 -  2:50 PM (Prof. Hake)
 
-Instructor:
+Instructors:
 
--   [Professor Donald J. Hake II](https://www.ycp.edu/academics/kinsley-school-of-engineering-sciences-and-technology/faculty/hake-ii-donald-j.html), <djhake2@ycp.edu>, KEC 137<br /> Office Hours: M-W-F 1:00-2:00, and by appointment
+-   Professor Donald J. Hake II, <djhake2@ycp.edu>, KEC 137<br> Office Hours: M-W-F 1:00-2:00, and by appointment
 
-
--   [Dr. Krishna Kambhampaty, PhD](https://www.ycp.edu/academics/kinsley-school-of-engineering-sciences-and-technology/faculty/TBD.html), <kkambhampaty@ycp.edu>, KEC 115<br /> Office Hours: TBD
+-   Dr. Krishna Kambhampaty, PhD, <kkambhampaty@ycp.edu>, KEC 115<br> Office Hours: T: 1:00-2:00, T-Th: 3:15 to 5:00, and by appointment 
 
 Course Description
 ------------------
