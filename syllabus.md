@@ -8,13 +8,15 @@ CS 320 - Software Engineering and Design
 
 **Spring 2022**
 
-Class times (all in KEC 119):
+**Webpage:**  [https://ycpcs.github.io/cs320-spring2022](https://ycpcs.github.io/cs320-spring2022/)
+
+**Class times (all in KEC 119):**
 
 - Section 101: M-W-F	 8:00 -  8:50 AM (Dr. Kambhampaty)
 - Section 102: M-W-F	11:00 - 11:50 AM (Prof. Hake)
 - Section 103: M-W-F	 2:00 -  2:50 PM (Prof. Hake)
 
-Instructors:
+**Instructors:**
 
 -   Professor Donald J. Hake II, <djhake2@ycp.edu>, KEC 137<br> Office Hours: M-W-F 1:00-2:00, and by appointment
 
