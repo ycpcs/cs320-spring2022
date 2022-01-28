@@ -38,9 +38,9 @@ After first installing Java, now you can install Eclipse.  We will be using **Ec
 
 If you already have **Eclipse 2020-06** installed, then you don't need to proceed further. You should attempt to download, import, and install [Lab 2: Web Applications I](./lab02.html) to verify that your installation works.  You might have to tweak the Java version that Eclipse is using.  A link to notes for tweaking your Eclipse/Java installation is included in the Lab02 write-up.
 
-If you need to install Eclipse, you can download the correct version you need from this location:
+If you need to install Eclipse, you can download the correct version you need for your operating system from this location:
 
-[Download Eclipse 2020-06](https://www.eclipse.org/downloads/packages/release/2020-06/r)
+[Download Eclipse IDE for Java Developers: 2020-06](https://www.eclipse.org/downloads/packages/release/2020-06/r)
 
 Installation is simply a matter of unzipping the download into a known location:
 
