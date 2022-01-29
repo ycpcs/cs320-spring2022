@@ -3,7 +3,7 @@ layout: default
 title: "Team Projects"
 ---
 
-This page lists some possible team project ideas.  I will expand this as projects are proposed.  If you wish to work on these projects, please see your instructor for more details.
+This page lists some possible team project ideas.  You are NOT limited to these projects - you are free to specify your own project.  If you wish to work on these projects and need more details, please see your instructor.
 
 * [CHESS](MKiley_Chess_Project.pdf): An interactive, multi-player chess game.
 
