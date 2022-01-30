@@ -20,7 +20,7 @@ The content area should be to the left and the sidebar (contact info) should be 
 
 Use **div** and **span** elements with id and class attributes to specify the body of the HTML document. All visual styling should be done separately in CSS rules.
 
-Use **must** use **separate HTML and CSS files** for you final submission.  You can look on [w3Schools.com](http://www.w3schools.com) under the HTML section to figure out how to do this.  That is your first self-learning requirement of the semester.  You will likely be referring to [w3Schools.com](http://www.w3schools.com) extensively throuhgout this course.
+Use **must** use **separate HTML and CSS files** for you final submission.  You can look [here](https://www.w3schools.com/html/default.asp) under the HTML tutorial section to figure out how to do this.  That is your first self-learning requirement of the semester.  You will likely be referring to [w3Schools.com](http://www.w3schools.com) extensively throughout this course.
 
 **NOTE:** I highly appreciate extra work on these labs.  Feel free to add more content than I am requiring - figure out how to embed pictures, audio, and/or video into your HTML resume.
 
