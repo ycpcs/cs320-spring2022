@@ -20,14 +20,16 @@ The content area should be to the left and the sidebar (contact info) should be 
 
 Use **div** and **span** elements with id and class attributes to specify the body of the HTML document. All visual styling should be done separately in CSS rules.
 
+Use **must** use **separate HTML and CSS files** for you final submission.  You can look on [w3Schools.com](http://www.w3schools.com) under the HTML section to figure out how to do this.  That is your first self-learning requirement of the semester.  You will likely be referring to [w3Schools.com](http://www.w3schools.com) extensively throuhgout this course.
+
+**NOTE:** I highly appreciate extra work on these labs.  Feel free to add more content than I am requiring - figure out how to embed pictures, audio, and/or video into your HTML resume.
+
 **NOTE:** You must work individually on this lab.  It is imperative that everyone on your team be able to develop web page layouts using HTML and CSS.  This **WILL** come up on the exam.
 
 Hints
 -----
 
-For additional information, I highly recommend this [great tutorial site for HTML, CSS, Java Script, SQL, PHP](http://www.w3schools.com).
-
-Try floating the content and sidebar divs to the left.
+Float the content and sidebar divs to the left.
 
 Use **width** properties to set the widths of the content and sidebar divs. For example, I have
 
@@ -58,6 +60,8 @@ to end a line of text.
 
 You will need to use margins to spread things out a bit. (For example, you should have some vertical space between resume sections.)
 
+For additional information, I highly recommend this [great tutorial site for HTML, CSS, Java Script, SQL, PHP](http://www.w3schools.com).
+
 Submitting
 ==========
 
@@ -69,7 +73,6 @@ From a web browser
 
 Save your HTML and CSS files to a zip file named **CS320_Lab01.zip**.
 
-Upload the saved zip file to the Marmoset server as **lab01**. The server URL is
+Upload the saved zip file to the Marmoset server as **lab01**. The Marmoset server URL is:
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
-
