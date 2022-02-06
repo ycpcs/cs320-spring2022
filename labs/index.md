@@ -20,7 +20,7 @@ Due Date | Lab | File
 ---- | --- | ----
 Thursday, 2-3-22, by 7:00am (Marmoset) | [Lab 1: HTML and CSS](lab01.html) | n/a
 Friday, 2-4-22 (in-class) | [Lab 3: Git Part I](lab03.html) | n/a
-Sunday, 2-13-22, by 7:00am (Marmoset) | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip), [CS320\_Jetty9.zip](CS320_Jetty9.zip)
+Sunday, 2-20-22, by 7:00am (Marmoset) | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip), [CS320\_Jetty9.zip](CS320_Jetty9.zip)
 Wednesday, 3-23-22, by 7:00am (Marmoset) | [Lab 4: SQL, Queries, Joins](lab04.html) |  [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)
 Friday, 3-25-22, by 7:00am (Marmoset) | [Lab 5: JDBC](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
 Friday, 4-1-22, by 7:00am (Marmoset) | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)

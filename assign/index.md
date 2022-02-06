@@ -9,7 +9,7 @@ This page lists the assignments.
 
 Assignment | Type | Due
 ---------- | ---- | ---
-[Assignment 1: Team Project Proposal](assign01.html) | Team | Thursday, 2-10-22, by 7:00am (Google Doc)
+[Assignment 1: Team Project Proposal](assign01.html) | Team | SUnday, 2-13-22, by 7:00am (Google Doc)
 [Assignment 2: Individual Project Proposal](assign02.html) | Individual | Sunday, 2-6-22, by 7:00am (PDF in Marmoset)
 [Assignment 3: Team Project Milestones](assign03.html) | Team | Multiple (see description)
 [Assignment 4: Individual Project Milestones](assign04.html) | Individual | Multiple (see description)
