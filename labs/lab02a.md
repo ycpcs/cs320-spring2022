@@ -37,7 +37,7 @@ After you refactor the project name, refactor the package names, change the loca
 Submitting
 ==========
 
-**NOTE:** You must also get this lab signed off by a tutor/mentor or your instructor in order to get credit for it.  Simply submitting the lab to Marmoset without a lab sign-off will **NOT** result in any credit.  **You must get a lab sign-off*.*
+**NOTE:** You must also get this lab signed off by a tutor/mentor or your instructor in order to get credit for it.  Simply submitting the lab to Marmoset without a lab sign-off will **NOT** result in any credit.  **You must get a lab sign-off**.
 
 When you are done, submit the lab to the Marmoset server using the method below.
 
