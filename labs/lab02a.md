@@ -14,7 +14,7 @@ This lab builds upon the **AddNumbers** and **GuessingGame** examples from [CS32
 
 You have six tasks:
 
-* First, make a copy of the **CS320\_Lab02_username** project, and then refactor that copy to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
+* First, make a copy of the **CS320\_Lab02_username** project, and then refactor that copy to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  **Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
 
 Example: I would refactor the copy of my **CS320\_Lab02\_djhake2** project to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.
 
@@ -30,12 +30,14 @@ After you refactor the project name, refactor the package names, change the loca
 
 * As part of this exercise, implement a complete set of test cases for the controller and model classes.  Implement those test cases as you develop each of the above tasks.  A significant portion of the effort on your team project will be creating an extensive and comprehensive set of JUnit test cases - **WHILE YOU ARE DEVELOPING YOUR TEAM PROJECT**.
 
-* **NOTE: I HIGHLY recommend that you save your work after each step.  Archive the project at each stage, and submit it to Marmoset.  That will provide a back-up in case you lose your work, or if you need to revert to a previous version of your work. In a few weeks, we will cover version control, and you will set up your own "Git" accounts and repositories.  For the time being, Marmoset can serve as your version archive.**
+* **NOTE: I HIGHLY recommend that you save your work after you have each of the above steps working.**  To that point, I also highly recommend that you use this lab as a means for learning how to use **git** to store your changes on **GitHub**.  At a minimum, archive the project at each stage, and submit it to Marmoset.  That will provide a back-up in case you lose your work, or if you need to revert to a previous version of your work. 
 
 **NOTE:** You must work individually on this lab.  It is imperative that everyone on your team be able to fully comprehend, design, implement, toubleshoot, and debug the complete architecture of a standard client-server application.  This **WILL** come up on the exam.
 
 Submitting
 ==========
+
+**NOTE:** You must also get this lab signed off by a tutor/mentor or your instructor in order to get credit for it.  Simply submitting the lab to Marmoset without a lab sign-off will **NOT** result in any credit.  **You must get a lab sign-off*.*
 
 When you are done, submit the lab to the Marmoset server using the method below.
 
