@@ -77,7 +77,7 @@ All information about the course will be posted here.
 
 -->
 
-* **Feb 15** - Posted the [sign-off criteria for the Web Applications II lab](labs/lab02a-signoff-criteria.html).  The **minimum paasing criteria** have been posted under the **Submission section** for the [Web Applications II lab](labs/lab02a.html).  Please review all of the criteria before asking your instructor or a tutor/mentor to sign-off on your Lab02a submission.
+* **Feb 15** - Posted the [sign-off criteria for the Web Applications II lab](labs/lab02a-signoff-criteria.html).  The **minimum passing criteria** have been posted under the **Submission section** for the [Web Applications II lab](labs/lab02a.html).  Please review all of the criteria before asking your instructor or a tutor/mentor to sign-off on your **Lab02a** submission.
 
 * **Feb 12** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Monday, 2-28-22**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress, to date.
 
