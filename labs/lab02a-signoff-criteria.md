@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Lab02a: Web Applications II Lab Sign-Off."
+title: "Lab02a: Web Applications II Lab Sign-Off"
 ---
 
-Tests for Web Applications II Lab (Lab02a) Sign-Off.
+Tests for Web Applications II Lab (Lab02a) Sign-Off
 ===============
  1) Pull up **Lab02a** in Eclipse: Verify that lab has been correctly refactored: **"lab02"** replaced with **"lab02a\_xxxx"**, where "xxxx" is the student's YCP username (look at the package names in Eclipse)
 
@@ -31,7 +31,7 @@ Tests for Web Applications II Lab (Lab02a) Sign-Off.
 
 13) Go to **Guessing Game** from the **Index page**: The **GuessingGame** page appears, with **"Start Game"** displayed
 
-14) Using **33** as the number trying to be guessed: Press the correct buttons for each guess, eventually guesses 33
+14) Use **33** as the number trying to be guessed: Press the correct buttons for each guess, eventually guesses 33
 Correct sequence of guesses: **50** -> **25** -> **37** -> **31** -> **34** -> **32** -> **33**
 
 15) Pull up **Numbers.java**: Verify that it exists
