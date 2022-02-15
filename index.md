@@ -77,6 +77,8 @@ All information about the course will be posted here.
 
 -->
 
+* **Feb 15** - Posted the [sign-off criteria for the Web Applications II lab](labs/lab02a-signoff-criteria.html).  The **minimum paasing criteria** have been posted under the **Submission section** for the [Web Applications II lab](labs/lab02a.html).  Please review all of the criteria before asking your instructor or a tutor/mentor to sign-off on your Lab02a submission.
+
 * **Feb 12** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Monday, 2-28-22**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress, to date.
 
 * **Feb 6** - [Lab02a: Web Applications II](labs/lab02a.html) is posted and is **due by 7:00am, Sunday, 2-20-22**  You must demonstrate Lab02a for a tutor/mentor or your instructor and have them sign-off on it in order to get credit for the lab.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or the server.
