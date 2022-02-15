@@ -46,7 +46,7 @@ Although you should strive to satisfy all of the above tests, a minimum passing 
 * The **Add Numbers page** must allow entry of three numbers
 * A **Numbers.java** model file
 * **AddNumbers.JSP** and **MultiplyNumbers.JSP** must pull their field data directly from **Numbers.java** and **NOT** from the parameter values passed in through the HTTP POST received by the the Servlet.
-* There will be **some test cases** for the methods for MultiplyNumbersController.java and Numbers.java
+* There will be at least **some test cases** for the methods in **MultiplyNumbersController.java** and **Numbers.java**
 
 When you are done, submit the lab to the Marmoset server using the method below.
 
