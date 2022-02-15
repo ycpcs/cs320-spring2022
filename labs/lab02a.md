@@ -42,9 +42,10 @@ Submitting
 **[Here is the complete set of tests that will be used to sign-off on your lab.](lab02a-signoff-criteria.html)**
 
 Although you should strive to satisfy all of the above tests, a minimum passing submission must have the following:
-* An operational Index page that links to all 3 applications
-* A Numbers.java model file
-* AddNumbers.JSP and MultiplyNumbers.JSP must pull their field data directly from Numbers.java and NOT from the values passed in through the HTTP POST received by the the Servlet.
+* An **operational Index page** that links to all 3 applications
+* The **Add Numbers page** must allow entry of three numbers
+* A **Numbers.java** model file
+* **AddNumbers.JSP** and **MultiplyNumbers.JSP** must pull their field data directly from **Numbers.java** and **NOT** from the parameter values passed in through the HTTP POST received by the the Servlet.
 * There will be **some test cases** for the methods for MultiplyNumbersController.java and Numbers.java
 
 When you are done, submit the lab to the Marmoset server using the method below.
