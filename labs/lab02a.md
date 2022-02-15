@@ -41,6 +41,8 @@ Submitting
 
 **[Here is the complete set of tests that will be used to sign-off on your lab.](lab02a-signoff-criteria.html)**
 
+Here is a [PDF version of the complete sign-off criteria](CS320-Lab02a-WebApplicationsII-LabSignOff.pdf) that you can **download, print, and use as a checkoff list when you get the sign-off for the lab.**
+
 Although you should strive to satisfy all of the above tests, a minimum passing submission must have the following:
 * An **operational Index page** that links to all 3 applications
 * The **Add Numbers page** must allow entry of three numbers
