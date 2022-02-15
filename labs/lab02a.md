@@ -39,6 +39,14 @@ Submitting
 
 **NOTE:** You must also get this lab signed off by a tutor/mentor or your instructor in order to get credit for it.  Simply submitting the lab to Marmoset without a lab sign-off will **NOT** result in any credit.  **You must get a lab sign-off**.
 
+**[Here is the complete set of tests that will be used to sign-off on your lab.](lab02a-signoff-criteria.html)**
+
+Although you should strive to satisfy all of the above tests, a minimum passing submission must have the following:
+* An operational Index page that links to all 3 applications
+* A Numbers.java model file
+* AddNumbers.JSP and MultiplyNumbers.JSP must pull their field data directly from Numbers.java and NOT from the values passed in through the HTTP POST received by the the Servlet.
+* There will be **some test cases** for the methods for MultiplyNumbersController.java and Numbers.java
+
 When you are done, submit the lab to the Marmoset server using the method below.
 
 From a web browser
