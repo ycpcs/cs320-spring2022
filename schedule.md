@@ -21,13 +21,13 @@ Wed, Feb 9    | Web Applications II <br> Web Applications Labs Review |
 Fri, Feb 11   | Version Control: Git & eGit (in class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
 Mon, Feb 14   | Development Processes & Waterfall Model | UD: Chapter 2 <br> [Lecture 6: Development Process](lectures/lecture06.html)
 Wed, Feb 16   | Agile Process & Scrum |  SG: [2016 Scrum Guide](lectures/lecture07/2016_Scrum_Guide_US.pdf) <br> [Lecture 7: Agile & Scrum](lectures/lecture07.html) <br> [Manifesto for Agile Software Development](https://www.sciencedirect.com/topics/computer-science/agile-manifesto) 
-Fri, Feb 18   | User Requirements Exercise and <br> Brainstorming Session (in-class) | 
-Mon, Feb 21   | Requirements & Use Cases<br>Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Requirements, Use Cases](lectures/lecture08.html)
-Wed, Feb 23   | Team Project Session: Use Cases (in class) | 
+Fri, Feb 18   | Requirements<br>User Requirements Exercise and <br> Brainstorming Session (in-class) | UD: Chapter 9 <br>[Lecture 8: Requirements](lectures/lecture08.html)
+Mon, Feb 21   | Requirements & Use Cases<br>Requirements and Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Use Cases](lectures/lecture08.html)
+Wed, Feb 23   | Team Project Session: Team Project Use Cases (in class) | 
 Fri, Feb 25   | Unified Modeling Language (UML) and <br> Object-Oriented Analysis (OOA)<br>Textual Analysis Exercise (in-class) | UD: Chapter 3 <br> [Lecture 9: UML Class Diagrams](lectures/lecture09.html) <br> [Lecture 10: OO Analysis](lectures/lecture10.html)
 Mon, Feb 28   | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Wed, Mar 2    | Team Project Session: Textual Analysis (in class) | 
-Fri, Mar 4    | Team Project Session: Project Analysis Model - UML (in class)
+Wed, Mar 2    | Team Project Session: Team Project Textual Analysis (in class) | 
+Fri, Mar 4    | Team Project Session: Team Project Analysis Model - UML (in class)
 Mon, Mar 7    | Testing and Code Coverage | [Lecture 16: Testing](lectures/lecture16.html)
 Wed, Mar 9    | Ensuring Code Quality | [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) 
 Fri, Mar 11   | **Winter Break, no class**
