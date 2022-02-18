@@ -90,46 +90,33 @@ Extensions (alternate paths):
 		.2: Customer may cancel purchase
 	
 
-**Let's work an example: Uber (Ride Sharing App):**
+**Let's work a Use Case example: Web-Enabled Vending Machine:**
 
--	Who are the possible actors?
+Think about the **requirements** and **use cases** for a modern, web-enabled vending machine.  How could such a vending machine be used?
 
-<!-- commenting out the answers
+Basic hardware features: 
+   1) Connected to Internet
+   2) Can accept cash, credit/debit cards, and electronic forms of payment
+   3) Can detect if/when product has been dispensed
+   4) Can monitor inventory and cash on-hand
+   5) Can detect maintenance issues
+   6) Can "see" - has camera(s)
+   7) Can "hear" - has microphone
+   8) Can "talk" - has speaker
+   9) Knows location - is GPS-enabled
+   
+Use your imagination, as engineers - what functions, actions, requirements, use cases are possible with a vending machine with the given hardware?
+   
+Now, the proejct teams will do this as an exersize on the white boards, as an example for creating a use case.
+   
+-	Think very broadly - how could the vending machine be used?
 
--   Customer
--   Uber App on smartphone
--   Uber system (this is software, but it is external to the Customer and the App, so it is considered an actor)
--   Uber Driver
--   Credit Card company (authorizes payments)
+-   Who are the possible actors?
 
---->
+-	What are some of the requirements (besides the given hardware)?
 
--	What are some of the requirements?
-
-<!-- commenting out the answers
-
--   customers can set up accounts (username, password, credit card info)
--   drivers can enroll: set up account (username, password, vehicle, bank info)
--   customers credit card gets charged (must be valid)
--   driver receives payment via direct deposit, or Paypal, etc...
--   the system is secure (only authorized users can use)
--   rating system (customers and drivers can post)
--   etc.
-
---->
-
--	 What are some scenarios in which Uber is used?
-
-<!-- commenting out the answers
-
--   customer requests a ride
--   drivers post availability
--   driver picks up additional passengers - reduces fare
--   customer schedules ride in advance
--   etc.
-
---->
+-	What are some scenarios in which the vending machine plays a role?
 
 -	Now let's pick a scenario and construct a use case for that scenario.
 
--	What requirement or requirements did this use case address?
+-	What requirement or requirements did this use case include / address?
