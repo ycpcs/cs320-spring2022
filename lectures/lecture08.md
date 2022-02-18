@@ -94,18 +94,27 @@ Extensions (alternate paths):
 
 Think about the **requirements** and **use cases** for a modern, web-enabled vending machine.  How could such a vending machine be used?
 
-Basic hardware features: 
+Basic hardware features:
+ 
    1) Connected to Internet
+   
    2) Can accept cash, credit/debit cards, and electronic forms of payment
+   
    3) Can detect if/when product has been dispensed
+   
    4) Can monitor inventory and cash on-hand
+   
    5) Can detect maintenance issues
+   
    6) Can "see" - has camera(s)
+   
    7) Can "hear" - has microphone
+   
    8) Can "talk" - has speaker
+   
    9) Knows location - is GPS-enabled
    
-Use your imagination, as engineers - what functions, actions, requirements, use cases are possible with a vending machine with the given hardware?
+Use your imagination, as engineers - what functions, actions, requirements, use cases are possible for a vending machine with the given hardware?
    
 Now, the proejct teams will do this as an exersize on the white boards, as an example for creating a use case.
    
