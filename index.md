@@ -69,13 +69,13 @@ All information about the course will be posted here.
 
 * **Feb 24** - [Individual Project Milestone 2: 50% Working System](assign/assign04.html) is **due Monday, 3-9-20**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress since Milestone 1.  **Note that this Milestone due date is the first day after you return from Winter Break.**
 
-* **Feb 24** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by 7:00am, Saturday, 3-7-20.**  You will likely need to collaborate on this assignment remotely over break using Google Docs, and your shared Google Team Drive.  You will also need to create and embed a **PDF** version of your UML document in your Google Doc submission.  **Do not link to your UML diagram, embed a PDF or PNG copy of it in your document.**
+* **Feb 24** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by 7:00am, Sunday, 3-13-22.**  You will likely need to collaborate on this assignment remotely over Winter Break using Google Docs, and your shared Google Team Drive.  You also **MUST** create and embed a **PDF, PNG, or JPG** version of your UML document in your Google Doc submission. **Embed it in your Google doc - do NOT link to your UML diagram.**
 
-* **Feb 24** - For creating your UML diagrams for your group's UML model that will part of Assign06: you may use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources Page](resources/index.html).  You may also use other drawing tools, **as long as those tools can export PDF or PNG versions of the UML diagram**, which you willl need to embed in your Assign06 submission.
-
-* **Feb 17** - [Assignment 5: Team Use Cases](assign/assign05.html) is **due by 7:00am, Monday, 2-24-20**.  You will need it for the in-class exercise for the Textual Analysis of your team project Use Cases later that day.
+* **Feb 24** - For creating your UML diagrams for your group's UML model that will part of Assign06: you may use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources Page](resources/index.html).  You may also use other drawing tools, **as long as those tools can export PDF, PNG, or JPG versions of the UML diagram**, which you willl need to embed in your Assign06 submission.
 
 -->
+
+* **Feb 21** - [Assignment 5: Team Use Cases](assign/assign05.html) is **due by 7:00am, Wednesday, 3-2-22**.  You will need it for the in-class exercise for the Textual Analysis of your team project Use Cases later that day.
 
 * **Feb 15** - Posted the [sign-off criteria for the Web Applications II lab](labs/lab02a-signoff-criteria.html).  The **minimum passing criteria** have been posted under the **Submission section** for the [Web Applications II lab](labs/lab02a.html).  Please review all of the criteria before asking your instructor or a tutor/mentor to sign-off on your **Lab02a** submission.  Also, a [lab sign-off sheet](labs/CS320-Lab02a-WebApplicationsII-LabSignOff.pdf) has been posted as a downloadeable PDF file.  **Please download and print this out so that you can use it as a check-off sheet when you get your lab sign-off.**
 
