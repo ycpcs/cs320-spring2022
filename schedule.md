@@ -40,7 +40,7 @@ Fri, Mar 25   | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15:
 Mon, Mar 28   | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
 Tue, Mar 29   | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
 Wed, Mar 30   | SQL / JDBC / ORM Labs Review
-Fri, Apr 1    | Testing and Code Coverage <br> Ensuring Code Quality| [Lecture 16: Testing](lectures/lecture16.html) <br> Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
+Fri, Apr 1    | Testing and Code Coverage <br> Ensuring Code Quality| [Lecture 16: Testing](lectures/lecture16.html) <br> Lecture 17: [Ensuring Code Quality](lectures/lecture17.html)
 Mon, Apr 4    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Tue, Apr 5    | Individual Project Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 Wed, Apr 6    | Library Project Example Analysis & Review (part 1) | **Take Home Exam (handed out)**
