@@ -28,8 +28,8 @@ Fri, Feb 25   | Unified Modeling Language (UML) and <br> Object-Oriented Analysi
 Mon, Feb 28   | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Mar 2    | Team Project Session: Team Project Textual Analysis (in class) | 
 Fri, Mar 4    | Team Project Session: Team Project Analysis Model - UML (in class)
-Mon, Mar 7    | Testing and Code Coverage | [Lecture 16: Testing](lectures/lecture16.html)
-Wed, Mar 9    | Ensuring Code Quality | [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) 
+Mon, Mar 7    | Team Project Session: Design and Milestone 1 (in-class) |
+Wed, Mar 9    | Team Project Session: Design and Milestone 1 (in-class) |
 Fri, Mar 11   | **Winter Break, no class**
 Mon, Mar 14   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Wed, Mar 16   | Object-Oriented Design (OOD) | [Lecture 11: OO Design, OCP, LSP](lectures/lecture11.html)<br> [Design Principles and Design Patterns](lectures/lecture11/Principles_and_Patterns.pdf), Robert Martin, pages 1-12
@@ -40,7 +40,7 @@ Fri, Mar 25   | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15:
 Mon, Mar 28   | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
 Tue, Mar 29   | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
 Wed, Mar 30   | SQL / JDBC / ORM Labs Review
-Fri, Apr 1    | Work Ethic Lecture
+Fri, Apr 1    | Testing and Code Coverage <br> Ensuring Code Quality| [Lecture 16: Testing](lectures/lecture16.html) <br> Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
 Mon, Apr 4    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Tue, Apr 5    | Individual Project Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 Wed, Apr 6    | Library Project Example Analysis & Review (part 1) | **Take Home Exam (handed out)**
@@ -50,7 +50,7 @@ Wed, Apr 13   | Team Project Work Session (in-class)
 Fri, Apr 15   | **Spring Break (no class)**
 Mon, Apr 18   | **Spring Break (no class)**
 Wed, Apr 20   | Team Project Milestone 3:<br> **75% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Fri, Apr 22   | Team Project Work Session (in-class)
+Fri, Apr 22   | Work Ethic Lecture (sections 102 & 103)
 Mon, Apr 25   | Team Project Work Session (in-class)
 Wed, Apr 27   | Team Project Work Session (in-class)
 Fri, Apr 29   | Team Project Work Session (in-class)
@@ -64,4 +64,6 @@ Mon, May 9    | **TEAM PROJECT FINAL PRESENTATIONS (Section 103)**<br>Section 10
 Wed, May 11   | **TEAM PROJECT FINAL PRESENTATIONS (Section 102)**<br>Section 102: 10:15am to 12:15pm (during Final Exam Period) | [Assignment 8: Team Project Deliverables](assign/assign08.html)
 
 <!-- Commenting out rest of schedule until it's needed - and the dates will change, anyway
+Mon, Mar 7    | Testing and Code Coverage | [Lecture 16: Testing](lectures/lecture16.html)
+Wed, Mar 9    | Ensuring Code Quality | [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) 
 -->
