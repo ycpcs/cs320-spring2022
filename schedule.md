@@ -24,7 +24,7 @@ Wed, Feb 16   | Agile Process & Scrum |  SG: [2016 Scrum Guide](lectures/lecture
 Fri, Feb 18   | Requirements<br>User Requirements Exercise and <br> Brainstorming Session (in-class) | UD: Chapter 9 <br>[Lecture 8: Requirements](lectures/lecture08.html)
 Mon, Feb 21   | Requirements & Use Cases<br>Requirements and Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Use Cases](lectures/lecture08.html)
 Wed, Feb 23   | Team Project Session: Team Project Use Cases (in class) | 
-Fri, Feb 25   | Unified Modeling Language (UML) and <br> Object-Oriented Analysis (OOA)<br>Textual Analysis Exercise (in-class) | UD: Chapter 3 <br> [Lecture 9: UML Class Diagrams](lectures/lecture09.html) <br> [Lecture 10: OO Analysis](lectures/lecture10.html)
+Fri, Feb 25   | Unified Modeling Language (UML) and <br> Object-Oriented Analysis (OOA)<br>Textual Analysis & UML Exercise (in-class) | UD: Chapter 3 <br> [Lecture 9: UML Class Diagrams](lectures/lecture09.html) <br> [Lecture 10: OO Analysis](lectures/lecture10.html)
 Mon, Feb 28   | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Mar 2    | Team Project Session: Team Project Textual Analysis (in class) | 
 Fri, Mar 4    | Team Project Session: Team Project Analysis Model - UML (in class)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lecture 8: Requirements, Use Cases"
+title: "Lecture 8: Requirements & Use Cases"
 ---
 
 Requirements
@@ -27,9 +27,9 @@ Issues:
     -   need to make sure that requirements have been addressed: **how do we do that - guarantee that every requirement has been met?**
     -   in a large system, with many requirements, this requires a great deal of attention to detail
 	
-So, let's have some "fun", and try to capture some requirements from a customer.
+So, let's have some "fun", and try to capture some requirements from a customer with a "simple" idea for a consumer product.
 
-**I'll be the voice of the customer (VOC) and tell you what I (think) I want, and it's your job to figure out what it is that I will really want/need.**
+**I'll be the voice of the customer (VOC) and tell you what I (think) I want, and it's your job to figure out what it is that I will really want/need/require.**
 
 
 Use cases
