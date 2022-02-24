@@ -106,9 +106,4 @@ How do we know what classes we need? Formally, we find out by gathering requirem
 
 Textual analysis: brainstorm words and phrases associated with the problem. The noun phrases are candidates for classes or fields, and the verb phrases are candidates to become methods (or possibly classes).
 
-Exercise: TicTacToe game. The requirements are:
-
--   implement game logic
--   show the progress of the game in a GUI window
--   support any combination of human and AI (computer) players
-
+At the end of [Lecture 10: OO Analysis](./lecture10.html), we'll do an in-class exercise based on the Use Case example from [Lecture 8: Requirements & Use Cases](./lecture08.html).
