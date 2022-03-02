@@ -61,7 +61,6 @@ All information about the course will be posted here.
 
 * **Mar 12** - The template for the Lab04 submission has been added to the Lab04 webpage.  See the instructions on the Lab04 page.
 
-* **Mar 5** - [Assignment 3: Team Project Milestones](assign/assign03.html) **Team Milestone 1: Minimal Working System** is **due on Monday, 3-16-20**.    This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the vast majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.
 
 * **Mar 5** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00am, Thursday, 3-19-20**.
 
@@ -69,11 +68,13 @@ All information about the course will be posted here.
 
 * **Feb 24** - [Individual Project Milestone 2: 50% Working System](assign/assign04.html) is **due Monday, 3-9-20**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress since Milestone 1.  **Note that this Milestone due date is the first day after you return from Winter Break.**
 
-* **Feb 24** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by 7:00am, Sunday, 3-13-22.**  You will likely need to collaborate on this assignment remotely over Winter Break using Google Docs, and your shared Google Team Drive.  You also **MUST** create and embed a **PDF, PNG, or JPG** version of your UML document in your Google Doc submission. **Embed it in your Google doc - do NOT link to your UML diagram.**
-
-* **Feb 24** - For creating your UML diagrams for your group's UML model that will part of Assign06: you may use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources Page](resources/index.html).  You may also use other drawing tools, **as long as those tools can export PDF, PNG, or JPG versions of the UML diagram**, which you willl need to embed in your Assign06 submission.
-
 -->
+
+* **Mar 1** - [Assignment 3: Team Project Milestones](assign/assign03.html) **Team Milestone 1: Minimal Working System** is **due on Monday, 3-14-20**.    This will be a FORMAL 10-12 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the vast majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.
+
+* **Mar 1** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by 7:00am, Sunday, 3-13-22.**  You will likely need to collaborate on this assignment remotely over Winter Break using Google Docs, and your shared Google Team Drive.  You also **MUST** create and embed a **PDF, PNG, or JPG** version of your UML document in your Google Doc submission. **Embed it in your Google doc - do NOT link to your UML diagram.**
+
+* **Mar 1** - For creating your UML diagrams for your group's UML model that will part of Assign06: you may use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources Page](resources/index.html).  You may also use other drawing tools, **as long as those tools can export PDF, PNG, or JPG versions of the UML diagram**, which you willl need to embed in your Assign06 submission.
 
 * **Feb 21** - [Assignment 5: Team Use Cases](assign/assign05.html) is **due by 7:00am, Wednesday, 3-2-22**.  You will need it for the in-class exercise for the Textual Analysis of your team project Use Cases later that day.
 
