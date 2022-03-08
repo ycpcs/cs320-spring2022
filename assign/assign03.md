@@ -37,7 +37,9 @@ Slides to consider (you may include others, as you see fit):
 
 The idea of a minimal working system is to create a working foundation early in the project's development.  Subsequent iterations of the development process will build upon this foundation to implement additional features.
 
-**NOTE: In order to hit the first milestone, and place your team in a good position to achieve success, you should consider putting in a good deal of initial development work on your web front-end navigation before and over Winter Break.**
+**NOTE: Please assign your instructor as a contributor to your main Team Project Repository on GitHub, and email a link to your Repository to your instructor, BEFORE your Milestone 1 presentation.**
+
+**NOTE: In order to hit the first milestone, and place your team in a good position to achieve success, you will need to put in a good deal of initial development work on your web front-end navigation before and over Winter Break.**
 
 **Milestone 2: Progress on features**.  In this milestone, your team should demonstrate some progress on features, such that at least some use cases are fully or partially implemented.  It is fine if your system is using the "fake" database at this point.
 
