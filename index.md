@@ -51,24 +51,23 @@ All information about the course will be posted here.
 
 * **Mar 22** - Mid-semester self/peer evaluations are **due by 7:00am, Saturday, 4-4-20**.  See the instructions under [Assignment 11](assign/assign11.html).
 
-* **Mar 22** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Wednesday, 4-1-20**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)  **We will be conducting this presentation via ZOOM - each team will have to coordinate their presentation amongst its team members.  YOu will be able to share your screens as you give your PPT and code demo.**
-
-* **Mar 18** - [Lab05: ORM](labs/lab05.html) is now **due by 7:00am, Sunday, 3-22-20**.
-
 * **Mar 12** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The due date for you individual project report has been moved to **Thursday, 4-9-20, by 7:00am**.
 
 * **Mar 12** - [Individual Project Milestone 3](assign/assign04.html) has been moved to **Monday, 4-6-20**.  This will be your final informal (at your desk) 2-4 minute (max) in-class demonstration of your individual project.
 
+
+
 * **Mar 12** - The template for the Lab04 submission has been added to the Lab04 webpage.  See the instructions on the Lab04 page.
 
-
-* **Mar 5** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00am, Thursday, 3-19-20**.
-
-* **Mar 5** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00am, Friday, 3-13-20**.
-
-* **Feb 24** - [Individual Project Milestone 2: 50% Working System](assign/assign04.html) is **due Monday, 3-9-20**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress since Milestone 1.  **Note that this Milestone due date is the first day after you return from Winter Break.**
-
 -->
+
+* **Mar 14** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Monday, 3-28-22**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
+
+* **Mar 14** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00am, Saturday, 3-26-22**.
+
+* **Mar 14** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00am, Wednesday, 3-23-22**.
+
+* **Mar 14** - [Individual Project Milestone 2: 50% Working System](assign/assign04.html) is **due Monday, 3-21-22**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress since Milestone 1.
 
 * **Mar 1** - [Assignment 3: Team Project Milestones](assign/assign03.html) **Team Milestone 1: Minimal Working System** is **due on Monday, 3-14-20**.    This will be a FORMAL 10-12 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the vast majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.
 

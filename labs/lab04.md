@@ -110,7 +110,7 @@ Copy and paste the final working query and the results of the query from the Ecl
 
 **NOTE:** You may NOT use specific **author_id**'s or **book_id**'s directly in your queries (except for problems 7 and 9, which specifically state to enter an **author_id**).  You **must** join the tables using the method given in the lecture and lab, and demonstrated in class.
 
-**NOTE:** Look out for the "traps" of not specifying a semi-colon at the end of your SQL statement in SQLDemo, and for having an odd number of single quotes in a query.  Also, you will have to figure out how to specify a single quote as part of a text string, and you will also have to figure out how to insert a new row into a table (hint: w3schools).
+**NOTE:** Look out for the "traps" of not specifying a semi-colon at the end of your SQL statement in SQLDemo, and for having an odd number of single quotes in a query.  Also, you will have to figure out how to specify a single quote as part of a text string, and you will also have to figure out how to insert a new row into a table **(hint: w3schools)**.
 
 Upload your solution text file to the **Lab04** project on the Marmoset server. The server URL is
 
