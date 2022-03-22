@@ -51,7 +51,7 @@ Mon, Apr 18   | **Spring Break (no class)**
 Wed, Apr 20   | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Thu, Apr 21   | Individual Project Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 Fri, Apr 22   | Team Project Work Session (in-class)
-Mon, Apr 25   | Team Project Milestone 3:<br> **75% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
+Mon, Apr 25   | Team Project Milestone 3:<br> **75% Working System w/working SQL DB** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Wed, Apr 27   | Team Project Work Session (in-class)
 Fri, Apr 29   | Team Project Work Session (in-class)
 Mon, May 2    | Team Project Work Session (in-class)
