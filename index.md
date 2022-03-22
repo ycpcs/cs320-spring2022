@@ -55,6 +55,9 @@ All information about the course will be posted here.
 
 -->
 
+* **Mar 22** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is now **due for 100% credit by 7:00am, Thursday, 3-24-22**.  If you submit by the **original due date, 7:00am, Wednesday, 3-23-22, you will receive 110% credit (10% extra credit)**.  Make sure to use the template for your Lab04 submission. See the instructions on the Lab04 page.
+
+
 * **Mar 18** - [Lab06: ORM](labs/lab06.html) is posted.  It is due **7:00am, Saturday, 4-2-22**.
 
 * **Mar 14** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Monday, 3-28-22**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
