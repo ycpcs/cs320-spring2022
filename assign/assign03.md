@@ -11,7 +11,7 @@ This document describes the expectations for each milestone.
 > ---- | ---------
 > Monday, 3-14-22    | Milestone 1: Minimal Working System (Basic navigation)
 > Monday, 3-28-22    | Milestone 2: Progress on Features (interaction with fake database)
-> Wednesday, 4-20-22 | Milestone 3: "75%" Working System (operational persistent SQL database)
+> Monday, 4-25-22    | Milestone 3: "75%" Working System (operational persistent SQL database)
 > Saturday, 5-7-22   | Final Technical Report: due by 7:00am (Marmoset)
 > Monday, 5-9-22     | Final Presentation & Demo (sections 101 & 103), during final exam period
 > Wednesday, 5-11-22 | Final Presentation & Demo (section 102), during final exam period
