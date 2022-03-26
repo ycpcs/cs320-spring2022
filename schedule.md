@@ -39,8 +39,8 @@ Wed, Mar 23   | Database Applications - JDBC<br> JDBC Lab Assigned | [Lecture 14
 Fri, Mar 25   | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html)<br> [Lab 6: ORM Lab](./labs/lab06.html)
 Mon, Mar 28   | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
 Tue, Mar 29   | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
-Wed, Mar 30   | Testing and Code Coverage <br> Ensuring Code Quality| [Lecture 16: Testing](lectures/lecture16.html) <br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
-Fri, Apr 1    | SQL / JDBC / ORM Labs Review |
+Wed, Mar 30   | SQL / JDBC / ORM Labs Review |
+Fri, Apr 1    | Testing and Code Coverage <br> Ensuring Code Quality| [Lecture 16: Testing](lectures/lecture16.html) <br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
 Mon, Apr 4    | Library Project Example Analysis & Review (part 1) |
 Wed, Apr 6    | Library Project Example Analysis & Review (part 2) | **Take Home Exam (handed out)**
 Fri, Apr 8    | Work Ethic Lecture (sections 102 & 103) | **Take Home Exam (due: in-class)**
