@@ -95,7 +95,6 @@ CS320 Lab05 (JDBC) Solution (will be posted Wednesday morning, 3-30-22)
 
 [CS320\_Lab05\_Solution-2022.zip](CS320_Lab05_Solution-2022.zip): A solution for the JDBC lab (Lab05).  You can import this into the same workspace as your Lab05 solution, as the solution project is named **CS320\_Lab05\_Solution-2022**.  Please compare your solution to this code, and make any necessary changes in your code, as an exercise to further understand the material.  There are plenty of comments included in the solution to describe what is happening and why it is being done.
 
-<!-- Commenting out JDBC and Library Example until they're needed
 
 CS320 Library Example Project
 =============================
@@ -119,6 +118,8 @@ To run the web application, first stop **SQLDemo**, then run **CS320_LibraryExam
 > [http://localhost:8081/lab02/login](http://localhost:8081/lab02/login)
 
 There are currently two sets of login credentials hard-coded into the application: User name: **student** with PW: **ycp** and User name: **faculty** with PW: **E&CS**.  After you have successfully logged in, the user name will be passed around as part of the Session information, and each subsequent servlet checks for a valid **Session** (a non-null "user" attribute) before responding to the request.  Note that this is **NOT** a secure method for handling credentials, but is used as an example for passing around and checking **Session** information.
+
+<!-- Commenting out JDBC and Library Example until they're needed
 
 **WARNING: You will receive an Academic Integrity Violation, as well as automatically fail the course, if you submit code as part of your Lab06 solution that was taken from any version of the LibraryExample Project that has ever been provided as part of this course.**
 
