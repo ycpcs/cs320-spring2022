@@ -24,26 +24,23 @@ All information about the course will be posted here.
 ## News
 
 <!-- Commenting out News until it's needed - and the dates will change, anyway
+-->
 
 
 * **Apr 22** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is schedule for each section's final exam period.  These will be 20-25 minute formal presentations.  See [Assignment 8](assign/assign08.html) for the details and guidelines.
-	- **8:00 section (101) - 8:00 to 10:00 on Monday, 5-9-22**
-	- **11:00 section (102) - 10:15 to 12:15 on Wednesday, 5-11-22**
-	- **2:00 section (103) - 3:00 to 5:00 on Monday, 5-9-22**.
+	- **8:00 section (101) - 8:00a to 10:00a on Monday, 5-9-22**
+	- **11:00 section (102) - 10:15a to 12:15p on Wednesday, 5-11-22**
+	- **2:00 section (103) - 3:00p to 5:00p on Monday, 5-9-22**.
 
 * **Apr 22** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is a self/peer evaluation for the team project.  They are both INDIVIDUAL assignments and are are both **due by 7:00am, Sunday, 5-8-22 in PDF form in Marmoset**.
 
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project.  There are several - please read the assignment carefully.
 
--->
-
 * **Apr 13** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, 4-25-22**.  This will be a FORMAL 8-10 minute (max) team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.
-
 
 * **Apr 13** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The due date for you individual project report has been moved to **Friday, 4-22-22, by 7:00am**.
 
 * **Apr 13** - [Individual Project Milestone 3](assign/assign04.html) is due **Wednesday, 4-20-22**.  This will be your final informal (at your desk) 2-4 minute (max) in-class demonstration of your individual project.
-
 
 * **Apr 3** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class on **Wednesday, 4-6-22**.
 
